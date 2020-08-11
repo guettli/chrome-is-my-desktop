@@ -11,15 +11,13 @@ Since some years I used Ubuntu. Not because I think it is perfect. I use Ubuntu 
 
 Today is the year 2020 and the times have changed.
 
-In spent 95% of time using Chrome. 
+In spent 95% of my time using Chrome. 
 
 In the past I switched between applications with Alt+TAB. Today I use [QuickTab Chrome Plugin](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en) to switch between browser tabs.
 
-In the past I used `ctrl-r` in the terminal to search backward in this bash history. 
+In the past I used `ctrl-r` in the terminal to search backward in this bash history. Today I use the addressbar of chrome to navigate to recent pages.
 
 In the past I used thinderbird for mails, now I use a web based solution.
-
-Today I use the addressbar of chrome to navigate to recent pages.
 
 I guess sooner or later most native GUIs except Chrome will be dead.
 
