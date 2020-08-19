@@ -27,7 +27,7 @@ Now I am deeply relaxed and looking forward. Chrome will be my new desktop.
 
 One thing I was missing first: A tool like the command line tool `top` where I can see what chrome is doing.
 And guess what? This already exists: shift+ESC opens the Chrome task manager.
-Or: chrome://discards/graph
+Or: chrome://discards
 
 
 
