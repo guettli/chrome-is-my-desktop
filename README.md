@@ -26,9 +26,7 @@ In the past I was disappointed because Linux never gained a relevant market-shar
 
 Now I am deeply relaxed and looking forward. Chrome will be my new desktop.
 
-One thing I was missing first: A tool like the command line tool `top` where I can see what chrome is doing.
-And guess what? This already exists: shift+ESC opens the Chrome task manager.
-Or: chrome://discards
+Some of my [Chrome Tips and Tricks](https://github.com/guettli/desktop-tips-and-tricks/blob/master/README.md#chrome)
 
 Exceptions, where I still use a native GUI:
 * An IDE (for example PyCharm) for development
