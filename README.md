@@ -9,6 +9,7 @@ And of course I needed an operating with a GUI to display all these terminals, m
 
 Since some years I used Ubuntu. Not because I think it is perfect. I use Ubuntu because I found no better alternative.
 
+
 Today is the year 2020 and the times have changed.
 
 In spent 95% of my time using Chrome. 
@@ -29,6 +30,11 @@ One thing I was missing first: A tool like the command line tool `top` where I c
 And guess what? This already exists: shift+ESC opens the Chrome task manager.
 Or: chrome://discards
 
-
+Exceptions, where I still use a native GUI:
+* An IDE (for example PyCharm) for development
+* Taking screenshots
+* Playing music
+* Painting/Drawing
+* Terminal and SSH
 
 
