@@ -36,3 +36,8 @@ Exceptions, where I still use a native GUI:
 * Terminal and SSH
 
 
+# Awesome Tools
+
+
+* https://excalidraw.com/ Virtual whiteboard for sketching hand-drawn like diagrams. A bit like Inkscape, but in the browser.
+
