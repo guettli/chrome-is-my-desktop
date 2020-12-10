@@ -38,6 +38,5 @@ Exceptions, where I still use a native GUI:
 
 # Awesome Tools
 
-
-* https://excalidraw.com/ Virtual whiteboard for sketching hand-drawn like diagrams. A bit like Inkscape, but in the browser.
-
+* [Open Source Tools](https://github.com/guettli/open-source-tools) Many of them run in a browser.
+* [Thomas Working Out Loud](https://github.com/guettli/wol)
