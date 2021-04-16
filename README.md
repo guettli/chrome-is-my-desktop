@@ -35,6 +35,21 @@ Exceptions, where I still use a native GUI:
 * Painting/Drawing
 * Terminal and SSH
 
+# Hyperlinks from and to everything
+
+Imagine you use a native for reading mails. Maybe thunderbird.
+
+And you have some tool where you make personal notes.
+
+How can you create a link from you personal notes to a particular email?
+
+AFAIK this is not possible.
+
+With a web based mail user agent this is easy. You can copy+paste the URL of the web based
+mail  user agent to your notes.
+
+I love it.
+
 
 # Awesome Tools
 
